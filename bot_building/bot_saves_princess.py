@@ -1,4 +1,5 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
+
 def printa(s):
     for i in range(0,m//2):
         print(s)
