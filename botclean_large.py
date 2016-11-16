@@ -1,3 +1,6 @@
+#TODO:Need to improve Path effciency
+#NOT SOLVED
+
 def near(a,b,c,d):
     return (((a-b)**2) + ((c-d)**2))
 
